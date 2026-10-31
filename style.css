@@ -1,0 +1,38 @@
+.menu {
+        background-color: rgb(32, 32, 54);
+        padding: 20px;
+        border-radius: 10px;
+      }
+      .links a{
+        color: white;
+        font-size:30px;
+        padding: 20px;
+        text-decoration: none;
+
+      }
+      h1 {
+        color:blueviolet;
+      
+      }
+      h2 {
+        font-size: 50px;
+
+      }
+      p {
+        font-size: 30px;
+      }
+      h4 {
+        font-size:30px
+      }
+      input {
+        background-color: grey;
+        color: white;
+
+      }
+      textarea {
+        background-color: grey;
+      }
+      ::placeholder {
+        color: white;
+      }
+      
